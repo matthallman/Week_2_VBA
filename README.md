@@ -7,7 +7,7 @@ In addition to providing winning candidate info we are asked to provide the vote
 I worked using Python in VScode, analyzing CSV election results. 
 
 ## Election Audit Results
-Link to [Election Results](https://github.com/matthallman/Week_3_Python/blob/main/Election_Analysis/analysis/election_analysis.txt)
+Link to [Election Results](https://github.com/matthallman/Week_3_Python/blob/main/PyPoll_Challenge.py)
 - A total of 369,711 votes were cast in this congressional election.
 
 ### County Votes: Percentage & Total Votes
