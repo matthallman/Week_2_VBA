@@ -30,5 +30,5 @@ Link to [Election Results](https://github.com/matthallman/Week_3_Python/blob/mai
 ### Challenge Summary
 This code should be able to be used in the next election with minimal changes needed besides changing the location of the election_results file.
 
-[Python File](https://github.com/matthallman/Week_3_Python/blob/main/Election_Analysis/Resources/PyPoll_Challenge.py)
+[Python File](https://github.com/matthallman/Week_3_Python/blob/main/PyPoll_Challenge.py)
 
